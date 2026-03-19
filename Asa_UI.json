@@ -1,0 +1,66 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/ZbO7Th3.png",
+			"disableicontext": false,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/f0pNshM.pngY.png",
+				"content": [
+					{
+						"title": "GODS VS MONSTERS ASA!",
+						"text": "Its Here!\r\nGvM ASA!\r\nThese servers are still a work in progress!\r\nF6 for shop and free starter kit.\r\nDiscord and donation links are also under F6.\r\nThank you for playing and your feedback/support.\r\nAdmin support is available in the server discord."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "https://i.imgur.com/f0pNshM.png",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "Yes these servers have rules even in the WIP (Work in progress) phase.\r\nThey are basicly the same as are ASE servers, and are located in the server discord.\r\nDiscord invite under F6. \r\nPlease give them a read, Thank you"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Help!",
+				"imageurl": "https://i.imgur.com/f0pNshM.png",
+				"content": [
+					{
+						"title": "Help!",
+						"text": "This is a place to have help and or tips about things in game.\r\n\r\nHow to claim starter kit:\r\n1. press F6\r\n2. click \"kits\" tab\r\n3. click on \"starter kit\" and click redeem\r\n4. click \"redeem kits\" tab\r\n5. click \"use kit\" & items will spawn in your inventory\r\n(All kits work like this)\r\n\r\nThese servers are a cluster, change servers at the obelisk.\r\nMaps include The Island, Scorched Earth, Aberration, Extinction & Ragnarok.\r\n\r\n. "
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Challenges",
+				"imageurl": "https://i.imgur.com/CqQ4mKf.png",
+				"content": [
+					{
+						"title": "Challenges",
+						"text": "Introducing Challenges!\r\nWhen these are complete they will reward shop points or possibly unique rewards. \r\nmore info coming soon!"
+					}
+				]
+			}
+		],
+		"links": [],
+		"version": 2
+	}
+}
